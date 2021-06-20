@@ -6,6 +6,7 @@ public class myTest {
 		
 		// This is for DEMO branch
 
+		int a=10;
 	}
 
 }
